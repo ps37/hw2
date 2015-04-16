@@ -6,8 +6,7 @@ PROGRAM EXECUTION:
 e.g: “ws_wireless.xml” file corresponds to the capture file “ws_wireless.pcapng”.
 -These files are given as input to the packet log analyzer program “packet_analysis.py”.
 
-**All the packet captures and the xml files are submitted using gmail, as the files were too large for git hub submission.
-
+**All the packet captures and the xml files are submitted using gmail, as the files were too large for git hub submission. The files were sent from the email pcsimhadri@uh.edu.
 -Run the program by typing the “make” command. The execution takes few minutes to complete!
 
 -This will generate 6 text(.txt) files. Each of them corresponding to each of the 6 packet captures(.pcapng) files. the text files have the same name as the packet captures(.pcapng) with an extension of “_op”.
