@@ -13,6 +13,8 @@ https://drive.google.com/folderview?id=0BxZS_fP99f72fjZ1RkcwSGpGeWlWVmlRNksxajB6
 
 -The files were also submitted by email from the email ID pcsimhadri@uh.edu.
 
+-The makefile for the program execution, The pdf containig the answers to the HW questions, And the Program source code are submitted using github. 
+
 PROGRAM EXECUTION:
 -Run the program by typing the “make” command. The execution takes few minutes to complete!
 
