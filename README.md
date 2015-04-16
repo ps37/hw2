@@ -16,7 +16,9 @@ https://drive.google.com/folderview?id=0BxZS_fP99f72fjZ1RkcwSGpGeWlWVmlRNksxajB6
 -The makefile for the program execution, The pdf containig the answers to the HW questions, And the Program source code are submitted using github. 
 
 PROGRAM EXECUTION:
--Please download all the xml(.xml) files from the google drive link above and put them in the same folder containig both my source code “packet_analysis.py” and the "makefile".
+
+-Please download all the xml(.xml) files from the google drive link above and make sure to put them in the same folder containig both my source code “packet_analysis.py” and the "makefile".
+
 -Run the program by typing the “make” command. The execution takes few minutes to complete!
 
 -This will generate 6 text(.txt) files. Each of them corresponding to each of the 6 packet captures(.pcapng) files. the text files have the same name as the packet captures(.pcapng) with an extension of “_op”.
